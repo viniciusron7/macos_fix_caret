@@ -1,4 +1,3 @@
-# Caret Fix: real `^` and `~` on the macOS U.S. International – PC layout
 
 On Apple's **U.S. International – PC** layout, `^` (Shift+6) and `~` (Shift+\`) are dead keys.
 
